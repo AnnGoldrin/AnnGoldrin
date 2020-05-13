@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-photo {
+    width: 370px;
+}
+body {
+    font-family: 'Montserrat';
+    background: #f5f7fa;
+    padding: 20px;
+}
+.wrapper {
+    background: #ffffff;
+    display: flex;
+}
+.contacts-container {
+    padding-left: 40px;
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #434c5a;
+}
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 10px;    
+}
+.lenguages-container {
+    padding-left: 40px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #ffffff;   
+}
+.languages-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+.languages-item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+}
+.languages-text {
+    color: #d8dadd;   
+}
+.about-me-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.vacancy {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-top: 25px;
+}
+.name {
+    /* color: #000000;
+    font-family: Montserrat;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 90px; */
+}
+.my-description {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+}
+.experience-container {
+    width: 400px;
+    height: 150px;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+.tech-skills-container {
+    width: 400px;
+    height: 200px;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+.soft-skills-container {
+    width: 400px;
+    height: 200px;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+.courses-container {
+    width: 400px;
+    height: 150px;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+.education-container {
+    width: 400px;
+    height: 300px;
+    padding-left: 40px;
+    margin-top: 20px;
+}
